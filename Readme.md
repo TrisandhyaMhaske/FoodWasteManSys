@@ -7,9 +7,9 @@ How to run the Food Waste Management System Project Using PHP and MySQL
 3.Run the script http://localhost/fwms
 
 Admin Credential
-Username: admin
-Password: Test@123
+Username: `admin``
+Password: `Test@123`
 
 Donor Credntails
-Username: johndoe@gmail.com
-Password: Test@123
+Username: `johndoe@gmail.com`
+Password: `Test@123``
